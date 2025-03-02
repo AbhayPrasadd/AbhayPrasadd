@@ -7,8 +7,9 @@ exploring the power of **AI and machine learning**.
 Always eager to **learn, innovate, and collaborate** on exciting tech projects!  
 
 ## 🔧 Tech Stack  
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB  
+- **Frontend:** React, Next.js, Tailwind CSS, BootStrap
+- **Backend:** Node.js, Express.js, MongoDB, MySQL
+- **Development Tools:** VsCode, Postman, Google Firebase
 - **AI/ML:** Python, TensorFlow, OpenAI APIs  
  
 
