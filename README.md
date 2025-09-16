@@ -1,25 +1,37 @@
-# 👋 Hey there, I'm Abhay Prasad!  
+👋 Hi, I’m Abhay Prasad
 
-🚀 **Passionate Web Developer | AI Enthusiast | Problem Solver**  
+🚀 Web Developer | AI/ML Enthusiast | Generative AI Explorer
 
- I love building **scalable** and **efficient** web applications while 
-exploring the power of **AI and machine learning**. 
-Always eager to **learn, innovate, and collaborate** on exciting tech projects!  
+I’m passionate about building scalable, efficient, and intelligent web applications.
+I specialize in combining modern web technologies with AI, NLP, and Generative AI frameworks to create innovative solutions.
+Constantly learning, experimenting, and collaborating to push the boundaries of tech.
 
-## 🔧 Tech Stack  
-- **Frontend:** React, Next.js, Tailwind CSS, BootStrap
-- **Backend:** Node.js, Express.js, MongoDB, MySQL
-- **Development Tools:** VsCode, Postman, Google Firebase
-- **AI/ML:** Python, TensorFlow, OpenAI APIs  
- 
+🔧 Tech Stack
 
-## 📌 What I'm Working On  
-🔹 Enhancing my skills in **AI-powered web applications**   
-🔹 Working on innovative **side projects and hackathons**  
+Frontend: React, Next.js, Tailwind CSS, Bootstrap
 
+Backend: Node.js, Express.js, MongoDB, MySQL
 
-📩 Email:- avirajabhay@gmail.com 
+AI/ML & Gen AI: Python, TensorFlow,OpenAI APIs, LangChain, Hugging Face Transformers, NLP pipelines
 
+Tools & Platforms: VSCode, Postman, Firebase, Git/GitHub, GOOGLE Cloud Platform 
 
+🏆 Achievements
 
-✨ **"Code | Build | Innovate"** ✨  
+Winner – Smart India Hackathon 2024(SIH)
+
+Selected in Top 100 – Google Solution Challenge 2025
+
+Participated and recognized in multiple national-level hackathons
+
+📌 Current Focus
+
+Developing AI-powered web applications with NLP and generative AI integration
+
+Exploring LangChain and LLM orchestration for intelligent workflows
+
+Building side projects, hackathon solutions, and innovative prototypes that combine AI and web technologies
+
+📩 Email: avirajabhay@gmail.com
+
+✨ "Code | Innovate | Automate with AI" ✨
