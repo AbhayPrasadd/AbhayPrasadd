@@ -32,13 +32,17 @@ Constantly learning, experimenting and collaborating to push the boundaries of t
 🏆 Achievements
 
 🎖 Winner – Smart India Hackathon 2024 (SIH)
+
 🚀 Top 100 – Google Solution Challenge 2025
+
 🏅 Recognized in multiple national-level hackathons
 
 📌 Current Focus
 
 ✨ AI-powered web applications with NLP & Gen AI integration
+
 ⚡ LangChain & LLM orchestration for intelligent workflows
+
 💻 Innovative side projects & hackathon solutions combining Web + AI
 
 📩 Email: avirajabhay@gmail.com
