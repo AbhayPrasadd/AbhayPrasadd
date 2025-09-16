@@ -2,11 +2,10 @@
 
 🚀 Web Developer | AI/ML Enthusiast | Generative AI Explorer
 
-I’m passionate about building scalable, efficient, and intelligent web applications.
-I specialize in combining modern web technologies with AI, NLP, and Generative AI frameworks to create innovative solutions.
-Constantly learning, experimenting, and collaborating to push the boundaries of tech.
+I’m passionate about building scalable, efficient and intelligent web applications.
+I specialize in combining modern web technologies with AI, NLP and Generative AI frameworks to create innovative solutions.
+Constantly learning, experimenting and collaborating to push the boundaries of tech.
 
-🔧 Tech Stack
 
 ## 🔧 Tech Stack
 
@@ -32,19 +31,15 @@ Constantly learning, experimenting, and collaborating to push the boundaries of 
 
 🏆 Achievements
 
-Winner – Smart India Hackathon 2024(SIH)
-
-Selected in Top 100 – Google Solution Challenge 2025
-
-Participated and recognized in multiple national-level hackathons
+🎖 Winner – Smart India Hackathon 2024 (SIH)
+🚀 Top 100 – Google Solution Challenge 2025
+🏅 Recognized in multiple national-level hackathons
 
 📌 Current Focus
 
-Developing AI-powered web applications with NLP and generative AI integration
-
-Exploring LangChain and LLM orchestration for intelligent workflows
-
-Building side projects, hackathon solutions, and innovative prototypes that combine AI and web technologies
+✨ AI-powered web applications with NLP & Gen AI integration
+⚡ LangChain & LLM orchestration for intelligent workflows
+💻 Innovative side projects & hackathon solutions combining Web + AI
 
 📩 Email: avirajabhay@gmail.com
 
