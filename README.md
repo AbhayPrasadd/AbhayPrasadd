@@ -1,4 +1,4 @@
-👋 Hi, I’m Abhay Prasad
+### 👋 Hi, I’m Abhay Prasad
 
 🚀 Web Developer | AI/ML Enthusiast | Generative AI Explorer
 
@@ -29,22 +29,18 @@ Constantly learning, experimenting and collaborating to push the boundaries of t
 ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logoColor=white)
 
 
-🏆 Achievements
+### 🏆 Achievements
 
 🎖 Winner – Smart India Hackathon 2024 (SIH)
-
 🚀 Top 100 – Google Solution Challenge 2025
-
 🏅 Recognized in multiple national-level hackathons
 
-📌 Current Focus
+### 📌 Current Focus
 
 ✨ AI-powered web applications with NLP & Gen AI integration
-
 ⚡ LangChain & LLM orchestration for intelligent workflows
-
 💻 Innovative side projects & hackathon solutions combining Web + AI
 
-📩 Email: avirajabhay@gmail.com
+### 📩 Email: avirajabhay@gmail.com
 
-✨ "Code | Innovate | Automate with AI" ✨
+### ✨ "Code | Innovate | Automate with AI" ✨
