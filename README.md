@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate developer who thrives at the intersection of **modern web technologies** and **artificial intelligence**. My mission is to create scalable, intelligent applications that solve real-world problems through innovative use of AI, NLP, and generative AI frameworks.
+I'm a passionate developer who thrives at the intersection of **modern web technologies** and **artificial intelligence**. My mission is to create scalable, intelligent applications that solve real-world problems through innovative use of AI, NLP and generative AI frameworks.
 
 - 🔭 Currently working on **AI-powered web applications** with advanced NLP capabilities
 - 🌱 Deep diving into **LangChain & LLM orchestration** for intelligent workflows  
@@ -44,9 +44,7 @@ I'm a passionate developer who thrives at the intersection of **modern web techn
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend Development  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -58,7 +56,6 @@ I'm a passionate developer who thrives at the intersection of **modern web techn
 ### 🤖 AI/ML & Generative AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -87,20 +84,6 @@ I'm a passionate developer who thrives at the intersection of **modern web techn
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhayPrasadd&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPrasadd&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhayPrasadd&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Current Focus Areas
 
 ```javascript
@@ -117,7 +100,6 @@ const currentFocus = {
 ## 📈 2025 Goals
 
 - [ ] **Launch 3 major AI-powered web applications**
-- [ ] **Contribute to 5+ open-source AI/ML projects**  
 - [ ] **Win national-level tech competitions**
 - [ ] **Build a comprehensive AI toolkit for developers**
 - [ ] **Mentor aspiring developers in AI/ML**
