@@ -7,7 +7,7 @@
 *Building the future with intelligent web applications*
 
 [![Email](https://img.shields.io/badge/Email-avirajabhay%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:avirajabhay@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=flat-square&logo=github)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/AbhayPrasadd?label=Follow&style=flat-square&logo=github)](https://github.com/AbhayPrasadd)
 
 </div>
 
@@ -91,11 +91,11 @@ I'm a passionate developer who thrives at the intersection of **modern web techn
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhayPrasadd&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPrasadd&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhayPrasadd&theme=radical&hide_border=true)
 
 </div>
 
