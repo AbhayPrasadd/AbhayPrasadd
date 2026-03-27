@@ -95,16 +95,6 @@ const currentFocus = {
 }
 ```
 
----
-
-## 📈 2025 Goals
-
-- [ ] **Launch 3 major AI-powered web applications**
-- [ ] **Win national-level tech competitions**
-- [ ] **Build a comprehensive AI toolkit for developers**
-- [ ] **Mentor aspiring developers in AI/ML**
-
----
 
 ## 🤝 Let's Connect & Collaborate!
 
